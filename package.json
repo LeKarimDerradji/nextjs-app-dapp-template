@@ -9,7 +9,7 @@
   "scripts": {
     "compile": "yarn workspace my-contracts compile",
     "deploy": "yarn workspace my-contracts deploy",
-    "build:contracts": "yarn workspace my-contracts build",
+    "build": "yarn workspace my-contracts build",
     "test": "yarn workspace my-contracts test",
     "dev": "yarn workspace my-dapp dev",
     "start": "yarn workspace my-dapp start",
